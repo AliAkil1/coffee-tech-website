@@ -61,7 +61,7 @@ export default function Home() {
           />
         </div>
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-white">
-          <h1 className="text-5xl md:text-6xl font-bold mb-6">Brewing Innovation</h1>
+          <h1 className="text-5xl md:text-6xl font-bold mb-6">Dialled Coffee Design</h1>
           <p className="text-xl md:text-2xl max-w-2xl mb-8">
             Where cutting-edge technology meets the art of coffee brewing. Revolutionizing the coffee experience through
             precision and innovation.
